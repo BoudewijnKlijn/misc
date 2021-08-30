@@ -44,5 +44,6 @@ plt.hlines(np.pi, 0, n, color='orange', linestyle='--')
 # plt.ylim([2, 4])
 plt.ylabel('estimate of pi')
 plt.xlabel('# random numbers')
+plt.savefig('figure1.png')
 plt.show()
 
