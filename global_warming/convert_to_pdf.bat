@@ -1,0 +1,1 @@
+py -m nbconvert --to webpdf --allow-chromium-download global_warming_welch_test.ipynb
